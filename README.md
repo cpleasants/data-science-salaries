@@ -1,5 +1,4 @@
 # Web Scraping Indeed.com & Predicting Salaries
-## Executive Summary
 ### Problem Statement:
 As a job seeker, it is important for me to be able to know whether a job I'm applying to will be well-paid or not. Unfortunately, most job postings are not up-front about their salary range. So, I would like to be able to make a more educated guess about whether a job I'm interested in will be well-paid or not. 
 
